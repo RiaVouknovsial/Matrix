@@ -30,5 +30,5 @@ Console.WriteLine("Некоторые элементы матрицы:");
 Console.WriteLine(matrix[0, 0]);
 Console.WriteLine(matrix[1, 0]);
 Console.WriteLine(matrix[1, 2]);
-
+Console.WriteLine(matrix[1, 1]);
 
